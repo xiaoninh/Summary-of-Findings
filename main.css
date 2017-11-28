@@ -5,18 +5,20 @@ Profile.jpeg@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Qu
 }
 
 .profile-header {
-	background: #f8d7da;
+	background: #B0E0E6;
 	padding-bottom: 2em;
 	padding-top: 3em;
 }
 
 .profile-header h1 {
-	letter-spacing: -2px;
-	font-family: 'Josefin Sans', sans-serif;
+	letter-spacing: 0.5px;
+	font-family: 'Josefin Sans', cursive;
+	font-weight: bolder;
 }
 
 .profile-header h2 {
-	font-size: 3em;
+	font-size: 1em;
+	font-family: 'Luckiest Guy';
 	
 }
 
