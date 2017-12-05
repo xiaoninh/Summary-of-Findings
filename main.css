@@ -1,4 +1,4 @@
-Profile.jpeg@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Quattrocento+Sans');
+Profile.jpeg@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Quattrocento+Sans|Luckiest+Guy');
 
 #nav-header {
 	height: 3em;
@@ -7,7 +7,7 @@ Profile.jpeg@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Qu
 .profile-header {
 	background: #B0E0E6;
 	padding-bottom: 2em;
-	padding-top: 3em;
+	padding-top: 5em;
 }
 
 .profile-header h1 {
@@ -19,7 +19,13 @@ Profile.jpeg@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Qu
 .profile-header h2 {
 	font-size: 1em;
 	font-family: 'Luckiest Guy';
-	
+	letter-spacing: 2.2em;
+}
+
+h5{
+color: #87CEFA;
+
+	font-family: 'Luckiest Guy', cursive;
 }
 
 .senior-project {
@@ -65,11 +71,23 @@ h1, h2, h3, h4, h5, p {
 h1 {
 	font-size: 2.5em;
 }
+/*/
+img.small {
+    max-width: 100%
+    border-radius: 8px;
+	float:right;
+	width:310px;
+	height:450px;
+
+}
+
+/*/
 
 @media (min-width: 576px) {
 	.profile-header h2 {
 		font-size: 1.5em;
 	}
+	/*/ img {width:260px; height:370px;}/*/
 }
 
 
